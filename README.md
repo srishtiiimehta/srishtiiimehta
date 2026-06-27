@@ -1,10 +1,10 @@
 # Hi there, I'm Srishti Mehta.👋
 
-🎓 **Student** | 📊 **Data Science & ML Enthusiast** | 🐍 **Python & SQL Developer**
+🎓 **Student** | 📊 **AI Engineer & ML Enthusiast** | 🐍 **Python & SQL Developer**
 
 ## 👨‍💻 About Me
 
-- 🌱 I'm currently learning **Machine Learning and Data Science**
+- 🌱 I'm currently learning **Machine Learning and AI Engineering**
 - 🔭 I'm working on building projects that turn data into insights
 - 💡 Passionate about solving real-world problems with data
 - 🎯 Goal: Showcase my data science journey through hands-on projects
