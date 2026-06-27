@@ -1,4 +1,4 @@
-# Hi there, I'm [Srishti Mehta].👋
+# Hi there, I'm Srishti Mehta.👋
 
 🎓 **Student** | 📊 **Data Science & ML Enthusiast** | 🐍 **Python & SQL Developer**
 
