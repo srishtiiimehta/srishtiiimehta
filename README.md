@@ -7,8 +7,8 @@
 - 🌱 I'm currently learning **Machine Learning and AI Engineering**
 - 🔭 I'm working on building projects that turn data into insights
 - 💡 Passionate about solving real-world problems with data
-- 🎯 Goal: Showcase my data science journey through hands-on projects
-- ⚡ Fun fact: I think in DataFrames 🐼
+- 🎯 Goal: Showcase my AI Engineering journey through hands-on projects
+- ⚡ Fun fact: I think in Prompting way 🐼
 
 ## 🛠️ Tech Stack
 
